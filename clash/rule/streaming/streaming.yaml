@@ -1,0 +1,27 @@
+payload:
+  # Youtube
+  - '+.googlevideo.com'
+  - '+.withyoutube.com'
+  - '+.youtu.be'
+  - '+.youtube.com'
+  - '+.youtubeeducation.com'
+  - '+.youtubegaming.com'
+  - '+.youtubekids.com'
+  - '+.youtube-nocookie.com'
+  - '+.yt.be'
+  - '+.ytimg.com'
+  - 'youtubei.googleapis.com'
+  - 'yt3.ggpht.com'
+  # Disney Plus
+  - '+.disneyplus.com'
+  - '+.disney-plus.net'
+  - '+.disneystreaming.com'
+  - '+.bamgrid.com'
+  - '+.dssott.com'
+  - 'cdn.registerdisney.go.com'
+  # HBO Now & HBO MAX
+  - '+.hbo.com'
+  - '+.hbogo.com'
+  - '+.hbonow.com'
+  - '+.hbomax.com'
+  - '+.hbomaxcdn.com'

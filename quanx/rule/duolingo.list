@@ -1,0 +1,4 @@
+host-suffix, duolingo.cn, proxy
+host-suffix, duolingo.com, proxy
+host, app-measurement.com, proxy
+host, config.unityads.unitychina.cn, proxy
