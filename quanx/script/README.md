@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/haukeng/proxy-rule/main/quanx/script/aqi-us.co
 
 3️⃣ Everything is ok if you see a notification show `✅ Get token successfully!`.
 
-### Thanks
+## Thanks
 
 - [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet)
 - [crossutility/Quantumult-X](https://github.com/crossutility/Quantumult-X)
