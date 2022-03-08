@@ -1,9 +1,9 @@
 // Developed by Hackl0us (https://github.com/hackl0us)
 // Modified by Haukeng (https://github.com/haukeng)
 
-const noTokenTitle = "⚠️ Token didn't existed!";
-const noTokenSubtitle = "";
-const noTokenText =
+const title = "⚠️ Token didn't existed!";
+const subtitle = "";
+const message =
   "Please visiting  https://aqicn.org/data-platform/token/ to register and enable the token.js.";
 const aqicnToken = $prefs.valueForKey("waqi_token");
 
@@ -185,6 +185,6 @@ if (aqicnToken) {
   );
 } else {
   let body = $response.body;
-  $notify(noTokenTitle, noTokenSubtitle, noTokenText);
+  $notify(title, subtitle, message);
   $done({ body });
 }

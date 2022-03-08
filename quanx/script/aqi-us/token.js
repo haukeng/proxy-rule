@@ -5,7 +5,7 @@ const update = "✅ Token update successfully!";
 const existed = "⚠️ This page didn't contain token";
 const error = "❌ Get token failed!";
 
-const successMessage = "Token is:";
+const successMessage = "The token is:";
 const existedMessage = "But you already have a token:"
 const errorMessage = "Please contact author to get help.";
 
