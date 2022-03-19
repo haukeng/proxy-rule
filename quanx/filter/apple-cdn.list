@@ -1,0 +1,20 @@
+# apple-cdn.list
+# Apple Music
+host, aod.itunes.apple.com, Apple-CDN
+host, api.smoot.apple.cn, Apple-CDN
+host, music.apple.com, Apple-CDN
+host, mvod.itunes.apple.com, Apple-CDN
+# App Store
+user-agent, com.apple.appstored*, Apple-CDN
+host-suffix, mzstatic.com, Apple-CDN
+host, iosapps.itunes.apple.com, Apple-CDN
+host, osxapps.itunes.apple.com, Apple-CDN
+# Update
+host, supportdownload.apple.com, Apple-CDN
+host, appldnld.apple.com, Apple-CDN
+host, swcdn.apple.com, Apple-CDN
+host, apptrailers.itunes.apple.com, Apple-CDN
+host, updates-http.cdn-apple.com, Apple-CDN
+# Map
+host-suffix, ls.apple.com, Apple-CDN
+host, gs-loc-cn.apple.com, Apple-CDN

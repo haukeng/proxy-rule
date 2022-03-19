@@ -1,0 +1,6 @@
+# paypal.list
+user-agent, PayPal*, PayPal
+host-suffix, paypal.com, PayPal
+host-suffix, paypal.me, PayPal
+host-suffix, paypal-mktg.com, PayPal
+host-suffix, paypalobjects.com, PayPal

@@ -1,0 +1,5 @@
+# duolingo.list
+host-suffix, duolingo.cn, Duolingo
+host-suffix, duolingo.com, Duolingo
+host, app-measurement.com, Duolingo
+host, config.unityads.unitychina.cn, Duolingo

@@ -1,0 +1,33 @@
+# apple-api.list
+# Apple API
+host-suffix, aaplimg.com, Apple-API
+host-suffix, apple-cloudkit.com, Apple-API
+host-suffix, apple.co, Apple-API
+host-suffix, apple.com, Apple-API
+host-suffix, apple-dns.net, Apple-API
+host-suffix, appsto.re, Apple-API
+host-suffix, cdn-apple.com, Apple-API
+host-suffix, digicert.com, Apple-API
+host-suffix, icloud.com, Apple-API
+host-suffix, icloud-content.com, Apple-API
+host-suffix, itunes.com, Apple-API
+host-suffix, me.com, Apple-API
+
+ip-cidr, 17.0.0.0/8, Apple-API
+ip-cidr, 63.92.224.0/19, Apple-API
+ip-cidr, 65.199.22.0/23, Apple-API
+ip-cidr, 139.178.128.0/18, Apple-API
+ip-cidr, 144.178.0.0/19, Apple-API
+ip-cidr, 144.178.36.0/22, Apple-API
+ip-cidr, 144.178.48.0/20, Apple-API
+ip-cidr, 192.35.50.0/24, Apple-API
+ip-cidr, 198.183.17.0/24, Apple-API
+ip-cidr, 205.180.175.0/24, Apple-API
+
+user-agent, com.apple.trustd*, Apple-API
+
+# Apple News
+host-suffix, ls.apple.com, Apple-API
+user-agent, Apple-APINews*, Apple-API
+user-agent, News*, Apple-API
+host, apple.comscoreresearch.com, Apple-API
