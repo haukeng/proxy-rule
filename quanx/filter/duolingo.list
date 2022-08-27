@@ -1,0 +1,5 @@
+# duolingo.list
+host-keyword, duolingo, Duolingo
+host-suffix, duolingo.cn, Duolingo
+host-suffix, duolingo.com, Duolingo
+user-agent, DuolingoMobile*, Duolingo

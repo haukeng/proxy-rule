@@ -1,0 +1,35 @@
+# Apple Direct
+# Apple Pay
+host, smp-device-content.apple.com, DIRECT
+host-keyword, smp-device, DIRECT
+user-agent, passd*, DIRECT
+user-agent, Wallet*, DIRECT
+
+# Push
+host-keyword, push-apple.com.akadns.net, DIRECT
+host-suffix, push.apple.com.akadns.net, DIRECT
+host-suffix, push.apple.com, DIRECT
+
+# Weather
+user-agent, *WeatherFoundation*, DIRECT
+host, weather-data.apple.com, DIRECT
+
+# Hotspot captive
+host, captive.apple.com, DIRECT
+
+# Asset Cache Locator Service
+host-suffix, lcdn-locator.apple.com, DIRECT
+
+# Caching Server Registration
+host-suffix, lcdn-registration.apple.com, DIRECT
+
+# FindMy
+user-agent, *com.apple.mobileme.fmip1, DIRECT
+user-agent, FindMyFriends*, DIRECT
+user-agent, FindMyiPhone*, DIRECT
+user-agent, FMDClient*, DIRECT
+user-agent, FMFD*, DIRECT
+user-agent, fmflocatord*, DIRECT
+
+# Reserve
+host, reserve-prime.apple.com, DIRECT

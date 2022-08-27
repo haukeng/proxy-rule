@@ -1,0 +1,60 @@
+# apple-api.list
+# Apple API
+
+
+# Apple News
+user-agent, AppleNews*, Apple-API
+host-suffix, apple.news, Apple-API
+host, news-events.apple.com, Apple-API
+host, news-edge.apple.com, Apple-API
+host, apple.comscoreresearch.com, Apple-API
+
+# App Store
+host, guzzoni.apple.com, Apple-API
+host, apps.apple.com, Apple-API
+host, xp.apple.com, Apple-API
+host, bag.itunes.apple.com, Apple-API
+host, api-edge.apps.apple.com, Apple-API
+host, api.apps.apple.com, Apple-API
+host, play.itunes.apple.com, Apple-API
+host, se.itunes.apple.com, Apple-API
+host, se-edge.itunes.apple.com, Apple-API
+host, su.itunes.apple.com, Apple-API
+host, upp.itunes.apple.com, Apple-API
+host, beta.music.apple.com, Apple-API
+host-keyword, buy.itunes.apple.com, Apple-API
+host-suffix, itunes-apple.com.akadns.net, Apple-API
+
+# iMessage
+host-suffix, ess.apple.com, Apple-API
+
+# Apple Music
+host-suffix, music.apple.com, Apple-API
+host-suffix, sonos-music.apple.com, Apple-API
+
+# Configuration
+host, configuration.apple.com, Apple-API
+
+# iCloud
+host-suffix, icloud-content.com, Apple-API
+host-suffix, me.com, Apple-API
+host-suffix, apple.com, Apple-API
+host-suffix, icloud.com, Apple-API
+host-suffix, apple-cloudkit.com, Apple-API
+
+# Others
+host-suffix, aaplimg.com, Apple-API
+host-suffix, apple.co, Apple-API
+host-suffix, itunes.com, Apple-API
+host-suffix, itunes.apple.com, Apple-API
+host-suffix, apple, Apple-API
+host, weather-analytics-events.apple.com, Apple-API
+host-suffix, appsto.re, Apple-API
+host-suffix, apple.com.cn, Apple-API
+host-suffix, appstore.com, Apple-API
+host-suffix, digicert.com, Apple-API
+host-suffix, apple-dns.net, Apple-API
+host-suffix, cdn-apple.com, Apple-API
+host-suffix, apple-mapkit.com, Apple-API
+host-suffix, organicfruitapps.com, Apple-API
+user-agent, com.apple.trustd*, Apple-API
